@@ -8,6 +8,7 @@
     	<title>GlassFish JSP Page</title>
   </head>
   <body>
-    <h1>Hello World!</h1>
+    <h1>bread products </h1>
+    <p>List of products</p>
   </body>
 </html> 
